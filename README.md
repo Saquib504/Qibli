@@ -24,7 +24,7 @@ Qibli is a clean, minimalistic iOS weather app built using Swift, UIKit, and Cor
 
 ## 📸 Screenshots
 
-![Simulator Screenshot](https://drive.google.com/file/d/1QcmL_BSUBGXgoGjkI6v6U1TKcEcZGXSs/view?usp=share_link)
+![iPhone Simulator](Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-07-01%20at%2022.09.06.png)
 
 ---
 
