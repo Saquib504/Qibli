@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		FDCC63C22E1448F100EB6893 /* README 2.md in Resources */ = {isa = PBXBuildFile; fileRef = FDCC63C12E1448F100EB6893 /* README 2.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		FD3FD5262E099E9100DF1BAD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		FD3FD50F2E099E9000DF1BAD /* Qibli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Qibli.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD3FD5252E099E9100DF1BAD /* QibliTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QibliTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD3FD52F2E099E9200DF1BAD /* QibliUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QibliUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDCC63C12E1448F100EB6893 /* README 2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README 2.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		FD3FD5062E099E9000DF1BAD = {
 			isa = PBXGroup;
 			children = (
+				FDCC63C12E1448F100EB6893 /* README 2.md */,
 				FD3FD5112E099E9000DF1BAD /* Qibli */,
 				FD3FD5282E099E9100DF1BAD /* QibliTests */,
 				FD3FD5322E099E9200DF1BAD /* QibliUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDCC63C22E1448F100EB6893 /* README 2.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +298,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Qibli/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Qibli;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +326,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Qibli/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Qibli;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
