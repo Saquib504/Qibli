@@ -43,6 +43,6 @@ Here’s a preview of the app UI:
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/yourusername/qibli-ios.git
-cd qibli-ios
+git clone https://github.com/yourusername/Qibli.git
+cd Qibli
 open Qibli.xcodeproj
